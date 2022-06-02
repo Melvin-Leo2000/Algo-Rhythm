@@ -52,7 +52,7 @@ function App() {
             <Route path="/login" element={< Login />} />
             <Route path="/" element={< Home />} />
             <Route path="/register" element={< Register />} />
-            <Route path="user/activate/:activation_token" element={< ActivationEmail />} />
+            <Route path="/user/activate/:activation_token" element={< ActivationEmail />} />
             <Route path="/main" element={< Main />} />
 
 
