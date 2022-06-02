@@ -19,7 +19,7 @@ export default function Landing() {
         </header>
     <body>
 
-        <h1 className="quote">"A investment in Knowledge Pays the best interest"</h1>
+        <h1 className="quote">"An investment in Knowledge Pays the best interest"</h1>
         <a href='/register'><button className="start" type="submit">Get Started</button></a>
     </body>
     </div>
